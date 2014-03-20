@@ -1,0 +1,7 @@
+/data/
+*.7z
+/bin/
+## Eclipse Proj
+.classpath
+.project
+.settings
